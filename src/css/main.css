@@ -1,0 +1,10 @@
+body {
+  background: #6c63ff;
+  font-family: "lato"; }
+  body .container {
+    width: 1240px;
+    margin: auto; }
+  body p {
+    color: #ffffff;
+    -webkit-transform: translate(50px, 50%);
+            transform: translate(50px, 50%); }
